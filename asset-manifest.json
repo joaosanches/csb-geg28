@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joaosanches.github.io/csb-geg28/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://joaosanches.github.io/csb-geg28/static/js/main.3c313dad.chunk.js",
+    "main.js.map": "https://joaosanches.github.io/csb-geg28/static/js/main.3c313dad.chunk.js.map",
+    "runtime-main.js": "https://joaosanches.github.io/csb-geg28/static/js/runtime-main.f3478d03.js",
+    "runtime-main.js.map": "https://joaosanches.github.io/csb-geg28/static/js/runtime-main.f3478d03.js.map",
+    "static/js/2.3a9e7d2d.chunk.js": "https://joaosanches.github.io/csb-geg28/static/js/2.3a9e7d2d.chunk.js",
+    "static/js/2.3a9e7d2d.chunk.js.map": "https://joaosanches.github.io/csb-geg28/static/js/2.3a9e7d2d.chunk.js.map",
+    "index.html": "https://joaosanches.github.io/csb-geg28/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://joaosanches.github.io/csb-geg28/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3a9e7d2d.chunk.js.LICENSE.txt": "https://joaosanches.github.io/csb-geg28/static/js/2.3a9e7d2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3478d03.js",
+    "static/js/2.3a9e7d2d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3c313dad.chunk.js"
+  ]
+}
